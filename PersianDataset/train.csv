@@ -1,0 +1,44 @@
+ClassId,Name
+0,Compulsory Keep BothSide
+1,Compulsory Keep Left
+2,Compulsory Keep Right
+3,Cycle crossing
+4,Danger
+5,Give Way
+6,Hump
+7,Left Bend
+8,Left Margin
+9,Left Turn Prohibited
+10,Maximum Speed 30
+11,Maximum Speed 40
+12,Maximum Speed 50
+13,Maximum Speed 60
+14,Maximum Speed 70
+15,Maximum Speed 80
+16,Maximum Speed 90
+17,MotorCycle Prohibited
+18,No Entry
+19,No Horn
+20,NO Stopping
+21,NO Waiting
+22,One way Traffic
+23,Park
+24,Park Forbidden
+25,Pedestrain
+26,Pedestrian crossing
+27,Right Bend
+28,Right Margin
+29,Right Turn Prohibited
+30,Road Work
+31,Roundabouts
+32,School
+33,School Crossing
+34,Side Road Right
+35,Slow
+36,Speed Camera
+37,STOP
+38,Truck Prohibited
+39,Two Way Traffic
+40,U-Turn
+41,U-Turn Allowed
+42,U-turn Prohibited
